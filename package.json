@@ -14,12 +14,18 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@mpth/react-no-ssr": "^1.0.1",
+    "@walletconnect/web3-provider": "^1.7.0",
+    "ethers": "^5.5.2",
     "next": "^12.0.7",
     "next-intl": "^2.3.4",
     "next-seo": "^4.28.1",
     "react": "^17.0.2",
+    "react-blockies": "^1.4.1",
     "react-dom": "^17.0.2",
-    "styled-jsx-plugin-postcss": "^4.0.1"
+    "styled-jsx-plugin-postcss": "^4.0.1",
+    "web3": "^1.6.1",
+    "web3modal": "^1.9.4"
   },
   "devDependencies": {
     "@next/bundle-analyzer": "^12.0.7",
